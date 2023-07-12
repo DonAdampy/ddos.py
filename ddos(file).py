@@ -17,9 +17,9 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 
-print(Fore.GREEN + "Author   : nobodyy78364")
+print(Fore.GREEN + "Author   : Adam🇩🇿")
 
-ip = input(Fore.LIGHTYELLOW_EX + "IP Target: ")
+ip = input(Fore.LIGHTMAGENTA_EX + "IP Target: ")
 port = int(input("Port: "))
 
 print(Fore.LIGHTRED_EX + "[===============] 0% ")
